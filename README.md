@@ -6,18 +6,6 @@ A comprehensive collection of **Cross-Site Scripting (XSS)** notes, payloads, by
 
 This repository contains my personal learning notes and resources while studying XSS. It includes beginner-friendly explanations, practical payloads, WAF bypass techniques, and PortSwigger Web Security Academy notes.
 
-## 📂 Repository Contents
-
-- 📘 XSS Fundamentals
-- 📘 Beginner XSS Notes
-- 📘 Advanced XSS Notes
-- 📘 PortSwigger XSS Lab Concepts
-- 📘 Payload Collections
-- 📘 Payload Classification
-- 📘 WAF Bypass Payloads
-- 📘 PDF Study Notes
-- 📘 Practice References
-
 ## 🎯 Topics Covered
 
 - What is XSS?
@@ -67,10 +55,5 @@ This project is licensed under the MIT License.
 
 ---
 
-### 👨‍💻 Author
-
-**Lakshit Prajapati**
-
-Cybersecurity Student | Ethical Hacker | Bug Hunter
 
 If you find this repository helpful, consider giving it a ⭐.
