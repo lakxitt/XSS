@@ -3,7 +3,7 @@
 A comprehensive collection of **Cross-Site Scripting (XSS)** notes, payloads, bypass techniques, PortSwigger lab concepts, and reference material for cybersecurity students, bug bounty hunters, and penetration testers.
 
 ## 📖 About
-
+ 
 This repository contains my personal learning notes and resources while studying XSS. It includes beginner-friendly explanations, practical payloads, WAF bypass techniques, and PortSwigger Web Security Academy notes.
 
 ## 🎯 Topics Covered
